@@ -46,12 +46,12 @@ python --version
 
 ### 2. Clone Repository
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/Khadija-Azam05/Pathfinding-Visualizer.git
 ```
 
 ### 3. Navigate to Project Folder
 ```
-cd YOUR_REPOSITORY_NAME
+cd Pathfinding-Visualizer
 ```
 
 ### 4. Run the Program
@@ -98,4 +98,4 @@ README.md
 ---
 
 ## Author
-Your Name
+Khadija Azam
